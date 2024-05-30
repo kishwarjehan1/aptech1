@@ -1,0 +1,28 @@
+
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+div
+{
+    display: flex;
+    justify-content: right;
+    background-color: chocolate;
+    height: 70px;
+    width: 100%;
+}
+a
+{
+    font-size: 25px;
+    padding: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    line-height: 50px;
+}
+#logo
+{
+    position: relative;
+    left:-1300px;
+    top: 0;
+}
